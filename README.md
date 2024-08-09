@@ -1,8 +1,6 @@
 # ReactJS Weather App
 
-Welcome to the ReactJS Weather App project! This application was built as part of a tutorial on my YouTube channel, [Code Explained](https://www.youtube.com/@CodeExplained). In this project, we will create a weather app using ReactJS and the Meteosource Weather API.
-
-Check out the full tutorial on YouTube: [ReactJS Weather App Tutorial](https://www.youtube.com/watch?v=123456).
+Welcome to the ReactJS Weather App project! In this project, we will create a weather app using ReactJS and the Meteosource Weather API.
 
 ## Table of Contents
 
@@ -14,8 +12,7 @@ Check out the full tutorial on YouTube: [ReactJS Weather App Tutorial](https://w
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [API Reference](#api-reference)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -79,20 +76,3 @@ This project uses the following dependencies:
 
 This project uses the Meteosource Weather API to fetch weather data. You can find more information and sign up for an API key at the [Meteosource Weather API page](https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource).
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository.
-2. Create your feature branch: `git checkout -b feature/my-new-feature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/my-new-feature`.
-5. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Happy coding! If you have any questions, feel free to reach out or leave a comment on the [YouTube tutorial](https://www.youtube.com/watch?v=123456).
