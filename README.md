@@ -1,6 +1,7 @@
 # ReactJS Weather App
 
-Welcome to the ReactJS Weather App project! In this project, we will create a weather app using ReactJS and the Meteosource Weather API.
+Welcome to the ReactJS Weather App! This application was built to demonstrate how to integrate third-party APIs with React and create a fully functional weather application.
+
 
 ## Table of Contents
 
@@ -12,11 +13,11 @@ Welcome to the ReactJS Weather App project! In this project, we will create a we
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [API Reference](#api-reference)
-
+- [Screenshots](#screenshots)
 
 ## Overview
 
-This project is a simple weather application built with ReactJS. It fetches weather data from the Meteosource Weather API and displays it in a user-friendly interface. This project aims to demonstrate how to integrate third-party APIs with React and how to build a complete application from scratch.
+This project is a simple weather application built with ReactJS. It fetches weather data from the Meteosource Weather API and displays it in a user-friendly interface. The primary goal of this project is to showcase how to build a React app that communicates with external APIs to fetch and display dynamic data.
 
 ## Features
 
@@ -75,4 +76,11 @@ This project uses the following dependencies:
 ## API Reference
 
 This project uses the Meteosource Weather API to fetch weather data. You can find more information and sign up for an API key at the [Meteosource Weather API page](https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource).
+
+
+## Screenshots
+
+![screenshot1](<Screenshot (110).png>)
+
+![screenshot2](<Screenshot 2024-08-10 200623.png>)
 

@@ -1,7 +1,7 @@
-import Place from "./Place"
-import Search from "./Search"
-import Settings from "./Settings"
-import "../styles/components/Header.scss"
+import Place from './Place';
+import Search from './Search';
+import Settings from './Settings';
+import '../styles/components/Header.scss';
 
 function Header() {
   return (
@@ -10,8 +10,7 @@ function Header() {
       <Search />
       <Settings />
     </div>
-    
-  )
+  );
 }
 
-export default Header
+export default Header;
