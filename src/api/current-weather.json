@@ -1,1 +1,24 @@
-{"lat":"22.56263N","lon":"88.36304E","elevation":11,"timezone":"Asia/Kolkata","units":"metric","current":{"icon":"overcast","icon_num":7,"summary":"Overcast","temperature":28.0,"feels_like":31.0,"wind_chill":30.5,"dew_point":24.5,"wind":{"speed":2.9,"gusts":5.3,"angle":182,"dir":"S"},"precipitation":{"total":0.0,"type":"none"},"cloud_cover":94,"ozone":268.05,"pressure":1005,"uv_index":0.0,"humidity":81,"visibility":24.13}}
+{
+  "lat": "22.56263N",
+  "lon": "88.36304E",
+  "elevation": 11,
+  "timezone": "Asia/Kolkata",
+  "units": "metric",
+  "current": {
+    "icon": "cloudy",
+    "icon_num": 6,
+    "summary": "Cloudy",
+    "temperature": 29.8,
+    "feels_like": 33.5,
+    "wind_chill": 32.5,
+    "dew_point": 22.8,
+    "wind": { "speed": 2.4, "gusts": 5.5, "angle": 182, "dir": "S" },
+    "precipitation": { "total": 0.0, "type": "none" },
+    "cloud_cover": 87,
+    "ozone": 272.2,
+    "pressure": 1005,
+    "uv_index": 6.9,
+    "humidity": 66,
+    "visibility": 24.14
+  }
+}
