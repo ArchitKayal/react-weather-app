@@ -79,8 +79,10 @@ This project uses the Meteosource Weather API to fetch weather data. You can fin
 
 
 ## Screenshots
+![Screenshot1](https://github.com/user-attachments/assets/0d5c9b18-c0ad-4ecf-86ff-2a4faa63774e)
 
-![screenshot1](<Screenshot (110).png>)
+![Screenshot2](https://github.com/user-attachments/assets/5919650c-c862-4c25-9da4-1e2ba8c2693a)
 
-![screenshot2](<Screenshot 2024-08-10 200623.png>)
+
+
 
